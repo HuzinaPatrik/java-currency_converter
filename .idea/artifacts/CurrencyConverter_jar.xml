@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CurrencyConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CurrencyConverter_jar</output-path>
+    <root id="archive" name="CurrencyConverter.jar">
+      <element id="module-output" name="CurrencyConverter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/java-json.jar/java-json.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
